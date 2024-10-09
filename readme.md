@@ -5,7 +5,6 @@ RealTime_Tracker is a Node.js-based web application designed to track and displa
 
 ## Features
 - Real-time data tracking
-- Interactive user interface
 - RESTful API integration
 
 ## Installation
